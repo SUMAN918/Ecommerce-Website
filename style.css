@@ -1216,7 +1216,7 @@ footer .copyright {
     justify-content: space-between;
   }
   .feature .fe-box {
-    width: 135px;
+    width: 100%;
     margin: 0 0 15x 0;
   }
   .product1 .pro {
