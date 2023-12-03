@@ -183,7 +183,7 @@ body {
 }
 
 .mobile {
-  display: flex;
+  display: none;
   align-items: center;
 }
 
